@@ -11,7 +11,16 @@ And for major release versions of ELRS, a branch based on that release will be c
 
 # Supported Flysky Hardware
 
-Ths following Flysky hardware are supported:
+The following Flysky hardware are supported:
 * Flysky EL18 internal module
 * Flysky FRM303
+
+# Building Firmware
+
+# Flashing AFHDS3/ELRS Procedures
+
+User can choose to flash the supported Flysky hardware to ELRS or back to AFHDS3, please refer the following links for details:
+
+* [Flysky EL18 internal module] (https://github.com/richardclli/Flysky-ELRS/flasher/EL18/README.md)
+* [Flysky FRM303] (https://github.com/richardclli/Flysky-ELRS/flasher/FRM303/README.md)
 
