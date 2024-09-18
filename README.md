@@ -21,6 +21,6 @@ The following Flysky hardware are supported:
 
 User can choose to flash the supported Flysky hardware to ELRS or back to AFHDS3, please refer the following links for details:
 
-* [Flysky EL18 internal module](https://github.com/richardclli/Flysky-ELRS/docs/EL18-flash.md)
-* [Flysky FRM303](https://github.com/richardclli/Flysky-ELRS//docs/FRM303-flash.md)
+* [Flysky EL18 internal module](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/EL18-flash.md)
+* [Flysky FRM303](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/FRM303-flash.md)
 
