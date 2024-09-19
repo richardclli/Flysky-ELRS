@@ -32,7 +32,11 @@ You can find the file firmware.bin in the platformio build folder src/.pio/build
 
 # Flashing AFHDS3/ELRS Procedures
 
-User can choose to flash the supported Flysky hardware to ELRS or back to AFHDS3, please refer the following links for details:
+User can choose to flash the supported Flysky hardware to ELRS or back to AFHDS3, the flashing tools are located here:
+
+https://github.com/richardclli/Flysky-ELRS/tree/main/flasher
+
+And for flashing instructions, please refer the following links for details:
 
 * [Flysky EL18 internal module](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/EL18-flash.md)
 * [Flysky FRM303](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/FRM303-flash.md)
