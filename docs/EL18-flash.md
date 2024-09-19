@@ -14,6 +14,7 @@ User can build the firmware with preferred options and rename it to ELRS.bin and
 5. Plugin USB cable
 6. Run the flashing tools, please note that the ELRS.bin is read successfully
    ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/EL18-flash3.png)
+7. Click update and wait for the update to finish.
 
 ## Flashing back to AFHDS3
 1. Ensure the file ELRS.bin is not present in the same folder of the flashing tools, you may rename it to another name for disabling.
@@ -25,5 +26,5 @@ User can build the firmware with preferred options and rename it to ELRS.bin and
 5. Plugin USB cable
 6. Run the flashing tools, please note that the ELRS.bin did not appear in the UI
    ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/EL18-flash4.png)
-7. Click update and wait for the update to be finished.
+7. Click update and wait for the update to finish.
 
