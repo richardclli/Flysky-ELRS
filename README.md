@@ -17,6 +17,19 @@ The following Flysky hardware are supported:
 
 # Building Firmware
 
+You need to install an environment for building the firmware, just install VSCode and PlatformIO will works.  The following is a simple procedure for firmware building:
+
+1. Clone a branch of a version that you want to build
+2. Open the src directory using VSCode
+3. Choose proper environment
+   * For building EL18 TX firmware, choose env:Flysky_EL18_TX_for_FlyskyBL
+   * For building FRM303 TX firmware, choose env:Flysky_FRM303_TX_for_FlyskyBL
+4. Edit the user_defines.txt file to specify your build options
+5. Build the firmware
+
+You can find the file firmware.bin in the platformio build folder src/.pio/build/Flysky_XXXXXX_TX_for_FlyskyBL, just copy it to the same folder of flashing tools and rename it to ELRS.bin and flash.
+
+
 # Flashing AFHDS3/ELRS Procedures
 
 User can choose to flash the supported Flysky hardware to ELRS or back to AFHDS3, please refer the following links for details:
