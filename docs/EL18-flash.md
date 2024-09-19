@@ -4,6 +4,8 @@ the only differences is whether the file ELRS.bin present in the same folder of 
 If the file is presents, then it will read in the file and flash to ELRS, if the file is missing it will flash back to AFHDS3.
 User can build the firmware with preferred options and rename it to ELRS.bin and put in the same folder of the flashing tools for updateing to a new version.
 
+Note: Please note that when you flash to ELRS, all the models information in the internal module will be discarded. You may need to rebind all the receivers after flash back.  Flysky Assistant did not provide a way to backup all the model settings at this moment.
+
 ## Flashing to ELRS
 1. Ensure the file ELRS.bin is present in the same folder of the flashing tools.
 2. Switch on EL18 in bootlloader mode.
