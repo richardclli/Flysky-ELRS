@@ -8,6 +8,7 @@ https://github.com/richardclli/ExpressLRS/tree/Flysky
 And for major release versions of ELRS, a branch based on that release will be created, the branches for stable releases listed as follows:
 
 * [ExpressLRS v3.4.3](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.4.3)
+* [ExpressLRS v3.5.0](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.0)
 
 # Supported Flysky Hardware
 
