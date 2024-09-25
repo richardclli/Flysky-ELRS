@@ -10,6 +10,10 @@ And for major release versions of ELRS, a branch based on that release will be c
 * [ExpressLRS v3.4.3](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.4.3)
 * [ExpressLRS v3.5.0](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.0)
 
+# Features
+* Supported BAUDS: 112.5k, 400k, 1.87M, 5.25M
+* Unsupported features: All Wifi and Bluetooth related features
+
 # Supported Flysky Hardware
 
 The following Flysky hardware are supported:
