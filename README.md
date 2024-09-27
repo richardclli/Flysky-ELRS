@@ -12,7 +12,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 
 # Features
 * STM32F072 MCU support, this MCU is used in Flysky EL18 internal module and FRM303
-* Optimized bi-directional transfer DMA based serial driver, can support up to 5.25M baud flawlessly with a 48MHz MCU
+* Optimized bi-directional DMA serial driver, can support up to 5.25M baud flawlessly with a 48MHz MCU
 * Compatible with Flysky bootloader, user can choose to flash the hardware to ELRS or back to AFHDS3 without limitations
 * Unsupported features: All Wifi and Bluetooth related features
 
