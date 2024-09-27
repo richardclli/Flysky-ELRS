@@ -11,7 +11,9 @@ And for major release versions of ELRS, a branch based on that release will be c
 * [ExpressLRS v3.5.0](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.0)
 
 # Features
-* Supported BAUDS: 112.5k, 400k, 1.87M, 5.25M
+* STM32F072 MCU support, this MCU is used in Flysky EL18 internal module and FRM303
+* Optimized bi-directional transfer DMA based serial driver, can support up to 5.25M baud flawlessly with a 48MHz MCU
+* Compatible with Flysky bootloader, user can choose to flash the hardware to ELRS or back to AFHDS3 without limitations
 * Unsupported features: All Wifi and Bluetooth related features
 
 # Supported Flysky Hardware
