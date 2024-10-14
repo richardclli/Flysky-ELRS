@@ -9,6 +9,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 
 * [ExpressLRS v3.4.3](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.4.3)
 * [ExpressLRS v3.5.0](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.0)
+* [ExpressLRS v3.5.1](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.1)
 
 # Features
 * STM32F072 MCU support, this MCU is used in Flysky EL18 internal module and FRM303
