@@ -41,7 +41,7 @@ If you use PlatformIO cli to build the firmware, you can execute the following c
 For example if you build the firmware for EL18, the command is like this
   > pio run --environment Flysky_EL18_TX_for_FlyskyBL
 
-Note: If pio is not in the executable paths, you may need to replace with a full path instead.
+Note: If pio is not in the executable paths, you may need to replace the command "pio" with a full path instead.
 
   
 
