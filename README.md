@@ -35,6 +35,16 @@ You need to install an environment for building the firmware, just install VSCod
 4. Edit the user_defines.txt file to specify your build options
 5. Build the firmware
 
+If you use PlatformIO cli to build the firmware, you can execute the following command in the "src" folder
+  > pio run --environment \<Name of the environment\>
+
+For example if you build the firmware for EL18, the command is like this
+  > pio run --environment Flysky_EL18_TX_for_FlyskyBL
+
+Note: If pio is not in the executable paths, you may need to replace with a full path instead.
+
+  
+
 You can find the file firmware.bin in the platformio build folder src/.pio/build/Flysky_XXXXXX_TX_for_FlyskyBL, just copy it to the same folder of flashing tools and rename it to ELRS.bin and flash.
 
 
