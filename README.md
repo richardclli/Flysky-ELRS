@@ -12,7 +12,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 * [ExpressLRS v3.5.1](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.1)
 * [ExpressLRS v3.5.2](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.2)
 * [ExpressLRS v3.5.3](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.3)
-*   
+
 # Features
 * STM32F072 MCU support, this MCU is used in Flysky EL18 internal module and FRM303
 * Optimized bi-directional DMA serial driver, can support up to 5.25M baud flawlessly with a 48MHz MCU
