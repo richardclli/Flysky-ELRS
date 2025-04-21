@@ -36,6 +36,8 @@ You need to install an environment for building the firmware, just install VSCod
 3. Choose proper environment
    * For building EL18 TX firmware, choose env:Flysky_EL18_TX_for_FlyskyBL
    * For building FRM303 TX firmware, choose env:Flysky_FRM303_TX_for_FlyskyBL
+   * For building PL18U TX firmware, choose env:Flysky_PL18U_TX_for_FlyskyBL
+
 4. Edit the user_defines.txt file to specify your build options
 5. Build the firmware
 
