@@ -25,6 +25,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 The following Flysky hardware are supported:
 * Flysky EL18 internal module
 * Flysky FRM303
+* Flysky PL18 internal module (added support since v3.5.4)
 
 # Building Firmware
 
