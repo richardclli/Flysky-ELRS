@@ -12,7 +12,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 * [ExpressLRS v3.5.1](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.1)
 * [ExpressLRS v3.5.2](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.2)
 * [ExpressLRS v3.5.3](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.3)
-* [ExpressLRS v3.5.4](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.4) Start to have PL18U support
+* [ExpressLRS v3.5.4](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.4)
 * [ExpressLRS v3.5.5](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.5)
 * [ExpressLRS v3.5.6](https://github.com/richardclli/ExpressLRS/tree/Flysky-v3.5.6)
 
@@ -27,7 +27,7 @@ And for major release versions of ELRS, a branch based on that release will be c
 The following Flysky hardware are supported:
 * Flysky EL18 internal module
 * Flysky FRM303
-* Flysky PL18 internal module (added support since v3.5.4)
+* Flysky PL18 internal module
 
 # Building Firmware
 
