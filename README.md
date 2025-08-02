@@ -66,5 +66,5 @@ And for flashing instructions, please refer the following links for details:
 
 * [Flysky EL18 internal module](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/EL18-flash.md)
 * [Flysky FRM303](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/FRM303-flash.md)
-* Flysky PL18U internal module: Just use similar procedure as EL18 internal module with PL18U specific flashing tools.
+* [Flysky PL18U](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/PL18U-flash.md)
 
