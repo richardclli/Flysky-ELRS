@@ -19,7 +19,7 @@ Note: Please note that when you flash to ELRS, all the models information in the
    ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/pl18u-fix.png)
 6. Now the PL18U internal module is in a proper state that you can use the following procedures to flash it to ELRS or AFHDS3.
 
-## Flashing to ELRS
+## Flashing to ELRS (Same as EL18 procedure)
 1. Ensure the file ELRS.bin is present in the same folder of the flashing tools.
 2. Switch on EL18 in bootlloader mode.
 3. Select "RF USB Access" and click on it.
@@ -31,7 +31,7 @@ Note: Please note that when you flash to ELRS, all the models information in the
    ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/EL18-flash3.png)
 7. Click update and wait for the update to finish.
 
-## Flashing back to AFHDS3
+## Flashing back to AFHDS3 (Same as EL18 procedure)
 1. Ensure the file ELRS.bin is not present in the same folder of the flashing tools, you may rename it to another name for disabling.
 2. Switch on EL18 in bootlloader mode.
 3. Select "RF USB Access" and click on it.
