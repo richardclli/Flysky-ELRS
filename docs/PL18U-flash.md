@@ -15,7 +15,7 @@ Note: Please note that when you flash to ELRS, all the models information in the
 3. Now the TX module is in the DFU mode, we need to keep the bootloader and flash the firmware with something else.
 4. Use the STM32CubeProgrammer to connect to the MCU of the TX module, it is a STM32F072 MCU.
 5. Open the ELRS.bin and change the start address to "0x08006000" and flash it, this will overwrite the firmware and keep the bootloader intact.
-   ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/pl18u-fix.jpg)
+   ![image](https://github.com/richardclli/Flysky-ELRS/blob/main/docs/images/pl18u-fix.png)
 6. Now the PL18U internal module is in a proper state that you can use the following procedures to flash it to ELRS or AFHDS3.
 
 ## Flashing to ELRS
