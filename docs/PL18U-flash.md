@@ -10,7 +10,7 @@ User can build the firmware with preferred options and rename it to ELRS.bin and
 Note: Please note that when you flash to ELRS, all the models information in the internal module will be discarded. You may need to rebind all the receivers after flash back.  Flysky Assistant did not provide a way to backup all the model settings at this moment.
 
 ## Fixing the buggy firmware of the PL18U internal module
-**Please skip this step if you has updated the Flysky stock firmware to version 2.2.18 and used this firmware to update the TX firmware to 1.7, only old TX firmware 1.6 that comes with Flysky stock firmware 2.1.11 is buggy**
+**Please skip this step if you has updated the Flysky stock firmware to version 2.2.18 and used this firmware to update the TX firmware to 1.7, only old TX firmware 1.6 that comes with Flysky stock firmware 2.1.11 is buggy.**
 1. Switch on the PL18U in bootloader mode.
 2. Select "RF USB Access", press the TX DFU button (the right top button hidden under the rubber grip), and click the "Enable".
 3. Now the TX module is in the DFU mode, we need to keep the bootloader and flash the firmware with something else.
